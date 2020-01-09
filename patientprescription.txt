@@ -1,0 +1,5 @@
+100
+ name : ali, password : 0000,  doctorrating : 9, feedback : good, Booking : DR ANA will take care of you the   5/7/2021 ,  Doctor note dont sleep wwll ,  new appointment status : no/appointment/./ medicine : Zoloft , quantity : 62 today - at least 4 hour(s) after eating . 
+P,P,P,P,P ,  Doctor note very energetic ,  new appointment status : 4/7/2021/ medicine : Adderall , quantity : 43 today - at least 5 minute(s) after eating . 
+ name : elia, password : 123,  doctorrating : 3, feedback : bad, REQUEST ACCOUNT TERMINATION? : YES, Booking : DR WGJGW will take care of you the   21/12/2020 ,  Doctor note im sorry for that ,  new appointment status : 7/4/2020/ medicine : ariel , quantity : 32 every 2 day - at least 3 hour(s) after eating . 
+ Patient : P, name : valbuena, password : nestle,  doctorrating : 1, feedback : very good service, REQUEST ACCOUNT TERMINATION? : NO, Booking : D.DR TYNER,abidjan will take care of you the   7/2/2020 accepted acc  ,  Doctor note : lol ,  new appointment status : 4/4/2021/ medicine : med:Meloxicam,Order:N , quantity : 52 3 following day - at least 5 hour(s) after eating . 

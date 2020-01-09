@@ -1,0 +1,2 @@
+
+Base on your rating for the  Patient : P, name : ana, password : 21,  doctorrating : 4, feedback : not satisfied, REQUEST ACCOUNT TERMINATION? : YES, Booking : D.DR AWERI,cambridge will take care of you the   1/4/2021 , D.DR TYNER,abidjan ,  i would like to give you my own rating: you gave a good feedback but next time be kind with the patient .
