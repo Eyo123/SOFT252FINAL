@@ -42,7 +42,7 @@ public class secretarypageTest {
      */
     @Test
     public void testMain() {
-        System.out.println("test run succesfully");
+        System.out.println("test run succesfulyly");
         String[] args = null;
         secretarypage.main(args);
         // TODO review the generated test code and remove the default call to fail.
